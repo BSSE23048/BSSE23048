@@ -70,7 +70,7 @@ I am a Software Engineering student at the **Information Technology University (
 
 ## 🏢 Professional Experience
 
-**Manager | HST Enterprises** > *Managing business operations, client relations, and industrial/electrical supply chain logistics.*
+**General Manager | HST Enterprises** > *Managing business operations, client relations, and industrial/electrical supply chain logistics.*
 
 **IT Department Intern | MCB Bank** *(6 Weeks)*
 > * **QA & Testing:** Executed rigorous application testing and reported system bugs.
