@@ -19,11 +19,11 @@
 
 ## ⚡ Executive Summary
 
-Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microservices, and AI pipelines[cite: 1]. Experienced in designing high-throughput backends with FastAPI and Next.js, deploying multi-cloud architectures across AWS/GCP, and building custom RAG workflows with vector databases[cite: 1].
+Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microservices, and AI pipelines. Experienced in designing high-throughput backends with FastAPI and Next.js, deploying multi-cloud architectures across AWS/GCP, and building custom RAG workflows with vector databases.
 
-- 🤖 **AI & Data Engineering:** RAG Pipelines, Multi-LLM Orchestration, Vector Embeddings, NLP, and ElevenLabs voice interfaces[cite: 1].
-- ☁️ **Cloud Infrastructure & DevOps:** AWS, Google Cloud, Docker, Kubernetes, Terraform IaC, Jenkins, and zero-downtime CI/CD pipelines[cite: 1].
-- ⚡ **Full-Stack & Backend Systems:** Scalable microservices in FastAPI, Next.js, Express.js, React Native, Redis caching, and Celery asynchronous task queues[cite: 1].
+- 🤖 **AI & Data Engineering:** RAG Pipelines, Multi-LLM Orchestration, Vector Embeddings, NLP, and ElevenLabs voice interfaces.
+- ☁️ **Cloud Infrastructure & DevOps:** AWS, Google Cloud, Docker, Kubernetes, Terraform IaC, Jenkins, and zero-downtime CI/CD pipelines.
+- ⚡ **Full-Stack & Backend Systems:** Scalable microservices in FastAPI, Next.js, Express.js, React Native, Redis caching, and Celery asynchronous task queues.
 
 ---
 
@@ -53,19 +53,19 @@ Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microser
 ## 💼 Professional Experience
 
 ### 🚀 **Software Engineer (Full-time)**
-**Gspec Technologies** • *Feb 2025 – Present* | Lahore, Pakistan[cite: 1]
-- Architected and deployed an enterprise-grade Enterprise Resource Planning (ERP) platform utilizing Next.js, FastAPI, PostgreSQL, and Docker to process high-concurrency real-time workflows[cite: 1].
-- Designed secure RESTful APIs and backend microservices, integrating Celery asynchronous queues and Redis caches to streamline complex data processing pipelines[cite: 1].
-- Optimized PostgreSQL relational queries, indexing strategies, and server-side execution paths, reducing API response latency by **35%** and boosting overall throughput[cite: 1].
-- Orchestrated an end-to-end AI-powered document extraction pipeline using custom NLP models and vector embeddings to automate invoice processing[cite: 1].
+**Gspec Technologies** • *Feb 2025 – Present* | Lahore, Pakistan
+- Architected and deployed an enterprise-grade Enterprise Resource Planning (ERP) platform utilizing Next.js, FastAPI, PostgreSQL, and Docker to process high-concurrency real-time workflows.
+- Designed secure RESTful APIs and backend microservices, integrating Celery asynchronous queues and Redis caches to streamline complex data processing pipelines.
+- Optimized PostgreSQL relational queries, indexing strategies, and server-side execution paths, reducing API response latency by **35%** and boosting overall throughput.
+- Orchestrated an end-to-end AI-powered document extraction pipeline using custom NLP models and vector embeddings to automate invoice processing.
 
 <br>
 
 ### 🏦 **Associate Software Engineer (Full-time)**
-**MCB Bank Limited** • *Dec 2023 – Jan 2025* | Lahore, Pakistan[cite: 1]
-- Developed and maintained core banking enterprise solutions using Java, Spring Boot, React, and Oracle DB, supporting high-volume financial transaction routing[cite: 1].
-- Executed unit, integration, and end-to-end performance testing suites to ensure zero-downtime deployments and strict financial regulatory compliance[cite: 1].
-- Engineered an automated reconciliation tool that cross-verified multi-node ledger feeds, eliminating manual audit overhead and remediating critical system bugs[cite: 1].
+**MCB Bank Limited** • *Dec 2023 – Jan 2025* | Lahore, Pakistan
+- Developed and maintained core banking enterprise solutions using Java, Spring Boot, React, and Oracle DB, supporting high-volume financial transaction routing.
+- Executed unit, integration, and end-to-end performance testing suites to ensure zero-downtime deployments and strict financial regulatory compliance.
+- Engineered an automated reconciliation tool that cross-verified multi-node ledger feeds, eliminating manual audit overhead and remediating critical system bugs.
 
 ---
 
@@ -77,8 +77,8 @@ Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microser
       <h3>🧠 Adaptive AI Learning Platform</h3>
       <p><b>Tech Stack:</b> <i>Next.js, FastAPI, Python, ElevenLabs, PostgreSQL, Qdrant Vector DB</i></p>
       <ul>
-        <li>Architected an adaptive AI-driven Learning Management System (LMS) serving customized study roadmaps, real-time knowledge evaluation, and automated concept mastery tracking[cite: 1].</li>
-        <li>Integrated ElevenLabs conversational voice agents and Qdrant vector database RAG pipelines to deliver dynamic, voice-enabled AI tutors capable of context-aware Q&A over complex textbooks[cite: 1].</li>
+        <li>Architected an adaptive AI-driven Learning Management System (LMS) serving customized study roadmaps, real-time knowledge evaluation, and automated concept mastery tracking.</li>
+        <li>Integrated ElevenLabs conversational voice agents and Qdrant vector database RAG pipelines to deliver dynamic, voice-enabled AI tutors capable of context-aware Q&A over complex textbooks.</li>
       </ul>
     </td>
   </tr>
@@ -87,8 +87,8 @@ Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microser
       <h3>🌩️ AWS Cloud Re-Architecture Project</h3>
       <p><b>Tech Stack:</b> <i>AWS (EC2, Multi-AZ RDS PostgreSQL, Auto Scaling, Route53, Secrets Manager), Terraform</i></p>
       <ul>
-        <li>Re-architected a legacy monolithic application into a highly available, fault-tolerant cloud infrastructure deployed across multiple Availability Zones using AWS Auto Scaling and Multi-AZ RDS[cite: 1].</li>
-        <li>Provisioned infrastructure via Terraform, implemented automated CI/CD deployment pipelines, and integrated AWS Secrets Manager to enforce zero-trust security parameters across production systems[cite: 1].</li>
+        <li>Re-architected a legacy monolithic application into a highly available, fault-tolerant cloud infrastructure deployed across multiple Availability Zones using AWS Auto Scaling and Multi-AZ RDS.</li>
+        <li>Provisioned infrastructure via Terraform, implemented automated CI/CD deployment pipelines, and integrated AWS Secrets Manager to enforce zero-trust security parameters across production systems.</li>
       </ul>
     </td>
   </tr>
@@ -119,9 +119,9 @@ Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microser
 ## 🏆 Hackathons & Competitive Achievements
 
 - **⚡ Sprint Finalist** — *Google Antigravity Hackathon 2026*  
-  Built **Ustaad AI**, an autonomous mobile service discovery engine running a multi-LLM fallback chain (Gemini, Groq, Anthropic) with automated rebooking logic[cite: 1].
+  Built **Ustaad AI**, an autonomous mobile service discovery engine running a multi-LLM fallback chain (Gemini, Groq, Anthropic) with automated rebooking logic.
 - **🚀 Finalist** — *NASA Space Apps Challenge 2025*  
-  Developed **Space Biology Knowledge Engine** to process 600+ NASA bioscience publications using NLP, knowledge graphs, and interactive topic modeling[cite: 1].
+  Developed **Space Biology Knowledge Engine** to process 600+ NASA bioscience publications using NLP, knowledge graphs, and interactive topic modeling.
 - **🥈 2nd Place Nationwide** — *RISC-V Architectural Compliance Hackathon (Pakistan Semiconductor Summit, LUMS)*  
   Simulated bare-metal hardware components, configured ACT 4.0 against Sail reference models, and cataloged formal processor bug reports.
 - **🏅 Top 5 Nationwide** — *HEC Generative AI Hackathon*  
@@ -135,29 +135,29 @@ Full Stack AI Engineer specializing in enterprise-grade SaaS platforms, microser
 <summary><b>🔍 View Full Certifications List</b></summary>
 <br />
 
-- **Google Cloud Platform:**[cite: 1]
-  - Manage Kubernetes in GCP *(Skill Badge)*[cite: 1]
-  - Cloud Architecture: Design, Implement, and Manage *(Skill Badge)*[cite: 1]
-  - Implement CI/CD Pipelines on GCP[cite: 1]
-  - Infrastructure as Code with Terraform[cite: 1]
-- **AWS Academy Graduate:**[cite: 1]
-  - Data Engineering[cite: 1]
-  - Microservices & CI/CD Pipeline Builder[cite: 1]
-  - Cloud Web Application Builder[cite: 1]
-- **Professional Credentials:**[cite: 1]
-  - Supervised Machine Learning *(Stanford University / Coursera)*[cite: 1]
-  - Software Engineering: Testing & Modeling UML *(HKUST)*[cite: 1]
-  - Intro to Software Engineering *(IBM)*[cite: 1]
-  - Jira Fundamentals[cite: 1]
+- **Google Cloud Platform:**
+  - Manage Kubernetes in GCP *(Skill Badge)*
+  - Cloud Architecture: Design, Implement, and Manage *(Skill Badge)*
+  - Implement CI/CD Pipelines on GCP
+  - Infrastructure as Code with Terraform
+- **AWS Academy Graduate:**
+  - Data Engineering
+  - Microservices & CI/CD Pipeline Builder
+  - Cloud Web Application Builder
+- **Professional Credentials:**
+  - Supervised Machine Learning *(Stanford University / Coursera)*
+  - Software Engineering: Testing & Modeling UML *(HKUST)*
+  - Intro to Software Engineering *(IBM)*
+  - Jira Fundamentals
 </details>
 
 ---
 
 ## 🎓 Education
 
-**Information Technology University (ITU)** • *Lahore, Pakistan*[cite: 1]  
-`Bachelor of Science in Software Engineering (BSSE)`[cite: 1]  
-> **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Software Architecture, Machine Learning, Operating Systems, DevOps & Cloud Infrastructure[cite: 1].
+**Information Technology University (ITU)** • *Lahore, Pakistan*  
+`Bachelor of Science in Software Engineering (BSSE)`  
+> **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Software Architecture, Machine Learning, Operating Systems, DevOps & Cloud Infrastructure.
 
 ---
 
