@@ -4,6 +4,14 @@ Software Engineering student at Information Technology University, Lahore, Pakis
 
 My focus is practical web development: business websites, dashboards, booking workflows, invoicing and API integrations. I’m interested in scoped freelance tasks, internships and useful open-source work.
 
+## Experience
+
+**Gespec — Part-time development**  
+Currently working part-time in software development alongside my degree.
+
+**MCB Bank — IT Department Intern · Six-week internship**  
+Assisted with application QA, bug documentation, workflow review and minor development tasks, with exposure to network operations.
+
 ## What I can help with
 
 - React and Next.js interfaces, forms and responsive layouts
@@ -20,6 +28,13 @@ My focus is practical web development: business websites, dashboards, booking wo
 | [Auto360 Studio](https://github.com/BSSE23048/Auto360-Studio) | Photo-based vehicle viewer, original-photo inspection and media workflow | React, TypeScript, Supabase, Cloudflare Workers, Cloudinary |
 
 These links point to source repositories. Feature availability, setup requirements and release limitations are documented in each project; a source link is not a claim of a verified production deployment.
+
+## Collaborative projects
+
+- **Ustaad:** contributed to a React Native/Expo and FastAPI tutoring application with AI features.
+- **Adaptive AI LMS:** contributed to a team project involving learning roadmaps, quizzes and a RAG tutor. Our team placed **Top 5 among 45+ teams at Aurex 2026**.
+
+These are team projects. Individual implementation details will be documented with the corresponding source or case study when available.
 
 ## Development focus
 
