@@ -46,6 +46,14 @@ Append one row per meaningful outcome; keep submitted and merged contributions d
 | 2026-11-01 | HST | Clear business-workflow README | Source/path/script review | [PR 1](https://github.com/BSSE23048/HST_Enterprises/pull/1) | Merged | Capture synthetic PDF workflow |
 | 2026-11-01 | Auto360 | Clear viewer/setup/release documentation | Source/path/script review | [PR 1](https://github.com/BSSE23048/Auto360-Studio/pull/1) | Merged | Execute release acceptance checks |
 
+Pending changes (submitted, not merged):
+
+| Repository | Proposed outcome | Validation | State |
+| --- | --- | --- | --- |
+| [Gym PR 1](https://github.com/BSSE23048/fitness-kingdom-gym/pull/1) | Trusted owner-claim authorization | 4 emulator tests and build pass locally and on GitHub CI | Draft; live owner provisioning and staging required |
+| [Flourish PR 2](https://github.com/BSSE23048/flourish-salon-pro/pull/2) | Remove tracked environment configuration | Placeholder/ignore review | Draft; revoke exposed credential and configure server environment |
+| [MediSense PR 1](https://github.com/BSSE23048/MediSense/pull/1) | Exclude runtime database | 2 storage-bootstrap tests pass locally and on GitHub CI | Draft; confirm synthetic data and runtime backup/storage |
+
 Do not use commit counts or green squares as success measures. Useful measures are a completed workflow, reproducible fix, current working demo, relevant test, accurate documentation and accepted upstream contribution.
 
 ## Profile settings to apply when supported access is available
