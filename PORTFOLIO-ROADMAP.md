@@ -7,7 +7,7 @@ Owner: Agha Shoaib Zaib. Start: 1 November 2026. This is a flexible work plan, n
 - Profile README corrected: MCB six-week IT internship; current part-time development at Gespec.
 - Glam: 6 unit tests, lint and build passed locally; first Quality CI run passed.
 - HST and Auto360: project introductions/setup/demo guidance improved.
-- Gym: trusted-owner rules and frontend session fix prepared; four emulator tests and build passed locally. Provision real owners and stage before deployment.
+- Gym: trusted-owner rules, token-based sessions and failed-write handling prepared. Ten service unit tests cover rejected writes and confirmed cache changes; four emulator tests cover authorization. Registration preserves details on failure. Provision real owners and stage before deployment.
 - Flourish: environment hygiene PR prepared. Credential rotation and API identity/ownership hardening remain required.
 - Runtime screenshots, complete live demos and individual team-project contributions remain to be documented.
 
@@ -50,7 +50,7 @@ Pending changes (submitted, not merged):
 
 | Repository | Proposed outcome | Validation | State |
 | --- | --- | --- | --- |
-| [Gym PR 1](https://github.com/BSSE23048/fitness-kingdom-gym/pull/1) | Trusted owner-claim authorization | 4 emulator tests and build pass locally and on GitHub CI | Draft; live owner provisioning and staging required |
+| [Gym PR 1](https://github.com/BSSE23048/fitness-kingdom-gym/pull/1) | Trusted owner-claim authorization | 10 service unit tests, 4 emulator tests and build passed on CI; the final dialog-message change builds locally and has a fresh CI run | Draft; live owner provisioning and staging required |
 | [Flourish PR 2](https://github.com/BSSE23048/flourish-salon-pro/pull/2) | Remove tracked environment configuration | Placeholder/ignore review | Draft; revoke exposed credential and configure server environment |
 | [MediSense PR 1](https://github.com/BSSE23048/MediSense/pull/1) | Exclude runtime database | 2 storage-bootstrap tests pass locally and on GitHub CI | Draft; confirm synthetic data and runtime backup/storage |
 
