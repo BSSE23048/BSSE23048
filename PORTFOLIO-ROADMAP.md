@@ -50,7 +50,7 @@ Pending changes (submitted, not merged):
 
 | Repository | Proposed outcome | Validation | State |
 | --- | --- | --- | --- |
-| [Gym PR 1](https://github.com/BSSE23048/fitness-kingdom-gym/pull/1) | Trusted owner-claim authorization | 10 service unit tests, 4 emulator tests and build passed on CI; the final dialog-message change builds locally and has a fresh CI run | Draft; live owner provisioning and staging required |
+| [Gym PR 1](https://github.com/BSSE23048/fitness-kingdom-gym/pull/1) | Trusted owner-claim authorization | 10 service unit tests, 4 emulator tests and build pass on latest-head GitHub CI | Draft; live owner provisioning and staging required |
 | [Flourish PR 2](https://github.com/BSSE23048/flourish-salon-pro/pull/2) | Remove tracked environment configuration | Placeholder/ignore review | Draft; revoke exposed credential and configure server environment |
 | [MediSense PR 1](https://github.com/BSSE23048/MediSense/pull/1) | Exclude runtime database | 2 storage-bootstrap tests pass locally and on GitHub CI | Draft; confirm synthetic data and runtime backup/storage |
 
