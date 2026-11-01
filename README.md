@@ -24,7 +24,7 @@ Each repository includes setup instructions and implementation/release notes. [G
 
 ## Experience
 
-**Gespec — Part-time development**  
+**Gespec Technologies — Part-time development**  
 Software development alongside my degree.
 
 **MCB Bank — IT Department Intern · Six weeks**  
