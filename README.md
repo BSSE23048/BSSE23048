@@ -1,48 +1,42 @@
 # Agha Shoaib Zaib
 
-Software Engineering student at Information Technology University, Lahore, Pakistan.
+**Web development · React · Next.js · TypeScript**  
+BS Software Engineering student at Information Technology University, Lahore, Pakistan.
 
-My focus is practical web development: business websites, dashboards, booking workflows, invoicing and API integrations. I’m interested in scoped freelance tasks, internships and useful open-source work.
+I build practical websites and business tools, with a focus on clear interfaces and complete user workflows. I’m open to scoped freelance projects, bug fixes and development opportunities.
+
+## Work I’m interested in
+
+- Business websites and portfolio sites
+- React/Next.js fixes and responsive interfaces
+- Dashboards, booking workflows and invoicing features
+- Firebase/Supabase integrations and API connections
+
+## Selected work
+
+| Project | Problem and implementation | Stack |
+| --- | --- | --- |
+| [Glam Skincare](https://github.com/BSSE23048/glam_skincare) | A storefront connecting customer checkout with admin order management; includes commerce, browser and database-rules tests | React, TypeScript, Firebase |
+| [HST Enterprises](https://github.com/BSSE23048/HST_Enterprises) | A business website and employee workspace for client records, quotations, invoices and PDF output | React, TypeScript, Firebase |
+| [Auto360 Studio](https://github.com/BSSE23048/Auto360-Studio) | A vehicle viewer using real exterior and inspection photographs, separate previews and original-photo access | React, TypeScript, Supabase, Cloudflare Workers, Cloudinary |
+
+Each repository includes setup instructions and implementation/release notes. [Glam’s automated checks](https://github.com/BSSE23048/glam_skincare/actions/workflows/quality.yml) run lint, unit tests and the production build.
 
 ## Experience
 
 **Gespec — Part-time development**  
-Currently working part-time in software development alongside my degree.
+Software development alongside my degree.
 
-**MCB Bank — IT Department Intern · Six-week internship**  
-Assisted with application QA, bug documentation, workflow review and minor development tasks, with exposure to network operations.
+**MCB Bank — IT Department Intern · Six weeks**  
+Application QA, bug documentation, workflow review and minor development support, with exposure to network operations.
 
-## What I can help with
-
-- React and Next.js interfaces, forms and responsive layouts
-- Dashboard and small business workflow development
-- Firebase and Supabase integrations
-- Focused bug fixes, setup documentation and testing improvements
-
-## Selected repositories
-
-| Project | What to explore | Technologies in the repository |
-| --- | --- | --- |
-| [Glam Skincare](https://github.com/BSSE23048/glam_skincare) | Storefront, customer/admin order workflows, unit and browser tests | React, TypeScript, Firebase, Vitest, Playwright |
-| [HST Enterprises](https://github.com/BSSE23048/HST_Enterprises) | Business website, authenticated portal, invoice/quotation validation and PDF generation | React, TypeScript, Firebase |
-| [Auto360 Studio](https://github.com/BSSE23048/Auto360-Studio) | Photo-based vehicle viewer, original-photo inspection and media workflow | React, TypeScript, Supabase, Cloudflare Workers, Cloudinary |
-
-These links point to source repositories. Feature availability, setup requirements and release limitations are documented in each project; a source link is not a claim of a verified production deployment.
-
-## Collaborative projects
+## Team projects
 
 - **Ustaad:** contributed to a React Native/Expo and FastAPI tutoring application with AI features.
-- **Adaptive AI LMS:** contributed to a team project involving learning roadmaps, quizzes and a RAG tutor. Our team placed **Top 5 among 45+ teams at Aurex 2026**.
-
-These are team projects. Individual implementation details will be documented with the corresponding source or case study when available.
-
-## Development focus
-
-I’m improving reproducible setup, authorization, error handling, accessibility and tests around complete user workflows. I prefer finishing and explaining a useful feature over adding more unfinished projects.
+- **Adaptive AI LMS:** contributed to a collaborative learning platform involving roadmaps, quizzes and a RAG tutor. Our team placed **Top 5 among 45+ teams at Aurex 2026**.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/agha-shoaib-zaib)
-- [Email](mailto:aghashoaibzaib2004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/agha-shoaib-zaib) · [Email](mailto:aghashoaibzaib2004@gmail.com)
 
-For a project inquiry, please include the problem, existing stack, required outcome and deadline.
+For a project inquiry, share the existing stack, the problem, the required result and your deadline.
